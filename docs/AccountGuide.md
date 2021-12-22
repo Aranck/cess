@@ -11,6 +11,10 @@ Go to install [polkadot.js wallet extension](https://polkadot.js.org/extension/)
 
 ### Connect CESS in Polkadot-JS Apps
 
+- #### Auto set RPC (recommend)
+Open [Polkadot-JS Apps for C-ALPHA](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fcess.today%2Frpc2-testnet%2Fws%2F#/accounts)
+
+- #### Mannaul set RPC
 Open [Polkadot-JS Apps](https://polkadot.js.org/apps/), and allow Polkadot-JS Apps access to polkadot.js wallet extension.
 
 Set the RPC address of testnet C-ALPHA to "wss://cess.today/rpc2-testnet/ws", and switch.
