@@ -75,7 +75,6 @@ Finally, configure the Rust toolchain:
 
 ```bash
 rustup default stable
-rustup update nightly
-rustup update stable
+rustup update
 rustup target add wasm32-unknown-unknown --toolchain nightly
 ```
