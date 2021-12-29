@@ -4,6 +4,7 @@ authors = ["CESS LAB"]
 version = "0.1.0"
 edition = "2018"
 license = "Apache-2.0"
+publish = false
 repository = ""
 description = "FRAME pallet for file-bank management"
 readme = "README.md"
